@@ -8,3 +8,6 @@ Curso práctico de JavaScript
 -Implementar las formular en JavaScript
 -Crear las funciones
 -Integrar JavaScript con html5
+
+
+![github](https://user-images.githubusercontent.com/47577169/134332396-b018ea5e-48bd-41eb-a831-6998c7874c3e.gif)
